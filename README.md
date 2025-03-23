@@ -22,7 +22,7 @@ The Indian Premier League (IPL), founded in 2008, is a premier Twenty20 (T20) cr
   - [Bowler Analysis](#bowler-analysis)
 - [Tools & Libraries Used](#tools--libraries-used)
 - [Acknowledgements](#acknowledgements)
-- [Inspiration](#inspiration)
+- [Inspiration](# it is inspiration)
 
 ## About the Project
 
